@@ -1,0 +1,8 @@
+.vs/
+weatherforecastbylocation.client/node_modules
+weatherforecastbylocation.client/.vscode
+weatherforecastbylocation.client/obj
+WeatherForecastByLocation.server/bin
+WeatherForecastByLocation.server/obj
+WeatherForecastByLocation.Tests/bin
+WeatherForecastByLocation.Tests/obj
